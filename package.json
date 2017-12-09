@@ -1,0 +1,23 @@
+{
+  "name": "separateit",
+  "version": "1.0.3",
+  "description": "separete any string optional",
+  "keywords": [
+    "regex",
+    "separator",
+    "comma separator"
+  ],
+  "author": {
+    "name": "Farhad Amjady",
+    "email": "farhadamjadytoosi@gmail.com"
+  },
+  "dependencies": {},
+  "licenses": "MIT",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
