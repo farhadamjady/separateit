@@ -1,12 +1,16 @@
 {
   "name": "separateit",
-  "version": "1.0.3",
+  "version": "1.1.6",
   "description": "separete any string optional",
   "keywords": [
     "regex",
     "separator",
     "comma separator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/farhadamjady/separateit.git"
+  },
   "author": {
     "name": "Farhad Amjady",
     "email": "farhadamjadytoosi@gmail.com"
