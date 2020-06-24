@@ -4,7 +4,7 @@ an optional separator with any delimeter
 
 ```js
 const separateit=require('sparateit');
-separateit("100000000000",{delimeter:",",flag:"g",num:3})
+separateit("100000000000",{ delimiter:",", flag:"g", num:3 })
 // the result will be
 // 100,000,000
 ```
